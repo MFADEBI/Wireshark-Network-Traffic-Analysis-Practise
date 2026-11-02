@@ -23,6 +23,7 @@ I encountered challenges during the initial stages, but consistency and continuo
 I am still learning, but this practical exercise has strengthened my knowledge of network traffic analysis and cybersecurity fundamentals.
 
 Lab Inspiration
+
 NETWORKWALKS
 
 Screenshots
